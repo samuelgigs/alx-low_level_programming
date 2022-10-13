@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
-* This print what programming is like
-* return a value of 0
+* main - This print what programming is like
+* return - This return a value of 0
 */
 
-int main (void)
+int main(void)
 {
-	puts("Programming is like building a multilingual puzzle\n");
+	puts("\"Programming is like building a multilingual puzzle\n");
 	return (0);
 }
