@@ -2,11 +2,10 @@
 
 /**
 * main - Entry point
-*
-* return - return a value of 0
+* Return: Always 0 (Success)
 */
 
-int main(void) /* main - is a funtion*/
+int main(void) /* main - Entry point */
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
