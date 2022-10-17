@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <ctype.h>
 /**
 * main - Entry point
 * Description: to print alphabet in lower case
@@ -9,7 +9,7 @@
 int main(void)
 {
 	char ch;
-
+	
 	for (ch = 'a'; ch <= 'z'; ch++)
 	{
 		putchar(ch);
