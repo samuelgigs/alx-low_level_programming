@@ -27,7 +27,7 @@ int main(void)
 	}
 	else if (digit < 6 && digit != 0)
 	{
-	printf("and is less than 6 not 0\n");
+	printf("and is less than 6 and not 0\n");
 	}
 	return (0);
 }
