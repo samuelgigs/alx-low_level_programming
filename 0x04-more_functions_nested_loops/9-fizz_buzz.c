@@ -23,11 +23,14 @@ int main(void)
 		{
 			printf("Buzz");
 		}
-		else
+		else if
 		{
 			printf("%d", i);
 		}
-	printf(" ");
+		else
+		{
+			printf(" ");
+		}
 	}
 	printf("\n");
 	return (0);
