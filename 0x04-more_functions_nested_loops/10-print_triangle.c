@@ -1,6 +1,7 @@
 #include "main.h"
 /**
-* main - Entry point
+* print_triangle - Entry point
+* @size: first integer
 * Return: void
 */
 
